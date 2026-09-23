@@ -405,7 +405,7 @@ The main findings from the project are:
 ```text
 subway-surfers-review-rating-prediction/
 │
-├── 2702374756_AsyifaIzzatilIsma_code.ipynb
+├── code_subway_surfers.ipynb
 ├── subway_surfers_reviews.csv
 └── README.md
 ```
@@ -436,7 +436,7 @@ pip install torch
 Open:
 
 ```text
-2702374756_AsyifaIzzatilIsma_code.ipynb
+code_subway_surfers.ipynb
 ```
 
 Run the notebook sequentially from data collection through model evaluation.
